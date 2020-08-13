@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600236018516",
+    "firebase_url": "https://webview-app-641bf.firebaseio.com",
+    "project_id": "webview-app-641bf",
+    "storage_bucket": "webview-app-641bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600236018516:android:a46d859d005c99ec0a96c1",
+        "android_client_info": {
+          "package_name": "com.example.webviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600236018516-tcmimrleis5a1482t9kkniq1rccasv89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjham6mw_HOVKFGAiVMLCYP-Z08kH5sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600236018516-tcmimrleis5a1482t9kkniq1rccasv89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
